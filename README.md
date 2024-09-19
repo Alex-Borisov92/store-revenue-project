@@ -23,7 +23,7 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/store-revenue-analysis.git
+    git clone https://github.com/Alex-Borisov92/store-revenue-analysis.git
     ```
 
 2. Open the `index.html` file in your web browser.
