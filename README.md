@@ -10,6 +10,10 @@ This project is a web application that displays store revenue data for selected 
 - Date range selection using HTML date input fields.
 - Display revenue data in a bar chart.
 
+## Live demo
+
+https://alex-borisov92.github.io/store-revenue-project/
+
 ## Technologies Used
 
 - HTML
@@ -44,6 +48,7 @@ To run this project locally:
     - **Parameters**: `start_date`, `end_date`
     - **Headers**: `Authorization: Bearer <access_token>`
     - **Response**: Revenue data for the selected date range.
+      
 
 ## License
 
