@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Выручка магазина</title>
+</head>
+<body>
+    <h1>Анализ выручки магазина</h1>
+
+    <form id="loginForm">
+        <label>Логин: <input type="text" id="username" value="79998881122" /></label>
+        <label>Пароль: <input type="password" id="password" value="12345" /></label>
+        <label>Дата начала: <input type="date" id="start_date" /></label>
+        <label>Дата окончания: <input type="date" id="end_date" /></label>
+        <button type="submit">Отправить</button>
+    </form>
+
+    <div id="chartContainer" style="width: 80%; height: 400px;"></div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
